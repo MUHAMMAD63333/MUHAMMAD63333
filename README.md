@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**MUHAMMAD63333/MUHAMMAD63333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m MUHAMMAD63333 👋  
 
-Here are some ideas to get you started:
+## About Me  
+I’m a developer passionate about AI, machine learning, and open-source contributions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Use  
+- Python  
+- Node.js  
+- TensorFlow  
+- React  
+
+## Projects  
+Check out my [July4_Assignment_3](https://github.com/MUHAMMAD63333/July4_Assignment_3) project  
+
+## Contact  
+📫 Reach me through GitHub: [MUHAMMAD63333](https://github.com/MUHAMMAD63333)
